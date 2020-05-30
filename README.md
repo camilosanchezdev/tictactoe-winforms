@@ -12,3 +12,6 @@ Tic Tac Toe game built with Winforms
 <p align="center">
   <img width="400px" src="TicTacToe/screenshots/image2.png">
 </p>
+
+# Download
+SourceForge: https://sourceforge.net/projects/tictactoe-winforms/
