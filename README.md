@@ -7,8 +7,8 @@ Tic Tac Toe game built with Winforms
 
 # Images
 <p align="center">
-  <img src="screenshots/image1.png">
-  </p>
-  <p align="center">
-  <img src="screenshots/image2.png">
-  </p>
+  <img width="400px" src="TicTacToe/screenshots/image1.png">
+</p>
+<p align="center">
+  <img width="400px" src="TicTacToe/screenshots/image2.png">
+</p>
